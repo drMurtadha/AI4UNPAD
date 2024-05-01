@@ -11,7 +11,7 @@ Here is the information you provided, organized into a markdown table:
 
 |Category|Tool|Description|
 |---|---|---|
-|Note-Taking and Transcription|Otter.ai|For transcribing lectures and meetings.|
+|Note-Taking and Transcription|[Otter.ai](https://otter.ai)|For transcribing lectures and meetings.|
 |Language Learning|Duolingo|For learning new languages through interactive exercises.|
 |Educational Platforms|Edmentum|A comprehensive learning platform for various subjects.|
 ||Doctrina AI|Provides access to notes and quizzes for learning.|
