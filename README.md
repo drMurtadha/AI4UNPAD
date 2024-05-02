@@ -15,7 +15,7 @@ Here is the information you provided, organized into a markdown table:
 | Language Learning                | [Duolingo](https://otter.ai/start-for-free)                      | For learning new languages through interactive exercises.      |
 | Educational Platforms            | [Edmentum](https://www.edmentum.com/intl/)                       | A comprehensive learning platform for various subjects.        |
 |                                  | [Doctrina AI](https://www.doctrina.ai)                           | Provides access to notes and quizzes for learning.             |
-| Writing and Research             | [OpenAI Playground](https://platform.openai.com/playground/chat) | For generating text and exploring ideas. [More]()              |
+| Writing and Research             | [OpenAI Playground](https://platform.openai.com/playground/chat) | For generating text and exploring ideas. [More](Playground)    |
 |                                  | ChatGPT                                                          | Offers writing assistance and question-answering capabilities. |
 |                                  | QuillBot                                                         | Helps with paraphrasing and improving writing quality.         |
 |                                  | Grammarly                                                        | Assists with text correction and plagiarism detection.         |
