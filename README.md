@@ -32,4 +32,4 @@ Here is the information:
 | Music Generation                 | [Mubert](https://mubert.com/)                                                                                                                                                                                                                                                                         | Generates music based on text inputs.                          |
 | AI Detection and Analysis        | [Undetectable AI](https://undetectable.ai/)                                                                                                                                                                                                                                                           | Analyzes and detects AI-generated content.                     |
 
-This table provides a clear and organized overview of the various AI tools and their uses. Let me know if you need any further assistance! 😊
+[Activities](https://github.com/drMurtadha/AI4UNPAD/blob/main/Activities.md)
