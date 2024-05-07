@@ -32,3 +32,5 @@ Here is the information:
 | AI Detection and Analysis        | [Undetectable AI](https://undetectable.ai/)                                                                                                                                                                                                                                                           | Analyzes and detects AI-generated content.                     |
 
 To further understand, lets use few case studies on [Activities](https://github.com/drMurtadha/AI4UNPAD/blob/main/Activities.md)
+
+Then, head to the [competition page]() 
